@@ -1,4 +1,4 @@
-# Home Sales Metrics using SparkSQL
+#  Home Sales Metrics using SparkSQL
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. You'll use Spark to:
 - Create temporary views
